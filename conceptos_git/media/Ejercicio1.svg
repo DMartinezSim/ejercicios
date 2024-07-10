@@ -32,16 +32,16 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1350"
-   inkscape:window-height="1032"
+   inkscape:window-width="1920"
+   inkscape:window-height="1009"
    id="namedview7302"
    showgrid="false"
-   inkscape:zoom="2"
-   inkscape:cx="836.5"
-   inkscape:cy="477.5"
-   inkscape:window-x="183"
-   inkscape:window-y="55"
-   inkscape:window-maximized="0"
+   inkscape:zoom="0.70710678"
+   inkscape:cx="547.30065"
+   inkscape:cy="560.73568"
+   inkscape:window-x="1912"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
    inkscape:current-layer="g7288"
    inkscape:showpageshadow="2"
    inkscape:pagecheckerboard="0"
@@ -420,7 +420,7 @@
    class="BackgroundObjects" />
   </g>
  </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(2094.5589,-4923.8579)"
    style="opacity:0.98"
    id="g6917">
         <rect
@@ -602,7 +602,7 @@
    d="m 4932,19928 h 6280"
    id="path6915" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(2094.5589,-4923.8583)"
    style="opacity:0.98"
    id="g6997">
         <rect
@@ -784,7 +784,7 @@
    d="M 1062,14947 H 7342"
    id="path6995" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(2094.5589,-4923.8579)"
    style="opacity:0.98"
    id="g7077">
         <rect
@@ -966,7 +966,7 @@
    d="m 9943,14905 h 6280"
    id="path7075" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(2094.5589,-4923.8579)"
    style="opacity:0.98"
    id="g7157">
         <rect
@@ -1148,7 +1148,7 @@
    d="m 9894,9883 h 6280"
    id="path7155" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(2094.5589,-4923.8579)"
    style="opacity:0.98"
    id="id3">
         <rect
@@ -1173,7 +1173,7 @@
    d="m 7431,17586 -432,-583 -264,376 z"
    id="path7165" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(2094.5589,-4923.8579)"
    style="opacity:0.98"
    id="id4">
         <rect
@@ -1198,7 +1198,7 @@
    d="m 7431,17586 715,-117 -213,-405 z"
    id="path7174" />
        </g><g
-   transform="translate(0,-4299.8172)"
+   transform="translate(2094.5589,-4923.8579)"
    style="opacity:0.98"
    id="id5">
         <rect
@@ -1230,27 +1230,29 @@
    class="BoundingBox"
    stroke="none"
    fill="none"
-   x="18179"
-   y="13859"
+   x="18972.75"
+   y="17007.541"
    width="10338"
    height="6004"
    id="rect7188" />
         <path
    fill="#b3b3b3"
    stroke="none"
-   d="m 18181,13861 h 2992 v 1999 h -2992 z"
+   d="m 18974.75,17009.542 h 2992 v 1999 h -2992 z"
    id="path7190" />
         <text
    class="TextShape"
-   id="text7198"><tspan
+   id="text7198"
+   x="793.75"
+   y="3148.5417"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="400"
      id="tspan7196"><tspan
        class="TextPosition"
-       x="18776"
-       y="14558"
+       x="19569.75"
+       y="17706.541"
        id="tspan7194"><tspan
          fill="#158466"
          stroke="none"
@@ -1258,19 +1260,21 @@
         <path
    fill="#b3b3b3"
    stroke="none"
-   d="m 21173,13861 h 3111 v 1999 h -3111 z"
+   d="m 21966.75,17009.542 h 3111 v 1999 h -3111 z"
    id="path7200" />
         <text
    class="TextShape"
-   id="text7208"><tspan
+   id="text7208"
+   x="793.75"
+   y="3148.5417"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="400"
      id="tspan7206"><tspan
        class="TextPosition"
-       x="21863"
-       y="14558"
+       x="22656.75"
+       y="17706.541"
        id="tspan7204"><tspan
          fill="#158466"
          stroke="none"
@@ -1278,19 +1282,21 @@
         <path
    fill="#b3b3b3"
    stroke="none"
-   d="m 24284,13861 h 4230 v 1999 h -4230 z"
+   d="m 25077.75,17009.542 h 4230 v 1999 h -4230 z"
    id="path7210" />
         <text
    class="TextShape"
-   id="text7218"><tspan
+   id="text7218"
+   x="793.75"
+   y="3148.5417"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="400"
      id="tspan7216"><tspan
        class="TextPosition"
-       x="25426"
-       y="14558"
+       x="26219.75"
+       y="17706.541"
        id="tspan7214"><tspan
          fill="#158466"
          stroke="none"
@@ -1298,24 +1304,26 @@
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 18181,15860 h 2992 v 1999 h -2992 z"
+   d="m 18974.75,19008.542 h 2992 v 1999 h -2992 z"
    id="path7220" />
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 21173,15860 h 3111 v 1999 h -3111 z"
+   d="m 21966.75,19008.542 h 3111 v 1999 h -3111 z"
    id="path7222" />
         <text
    class="TextShape"
-   id="text7230"><tspan
+   id="text7230"
+   x="793.75"
+   y="3148.5417"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="400"
      id="tspan7228"><tspan
        class="TextPosition"
-       x="21880"
-       y="16557"
+       x="22673.75"
+       y="19705.541"
        id="tspan7226"><tspan
          fill="#158466"
          stroke="none"
@@ -1323,19 +1331,21 @@
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 24284,15860 h 4230 v 1999 h -4230 z"
+   d="m 25077.75,19008.542 h 4230 v 1999 h -4230 z"
    id="path7232" />
         <text
    class="TextShape"
-   id="text7240"><tspan
+   id="text7240"
+   x="793.75"
+   y="3148.5417"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="400"
      id="tspan7238"><tspan
        class="TextPosition"
-       x="25288"
-       y="16557"
+       x="26081.75"
+       y="19705.541"
        id="tspan7236"><tspan
          fill="#158466"
          stroke="none"
@@ -1343,25 +1353,27 @@
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 18181,17859 h 2992 v 2001 h -2992 z"
+   d="m 18974.75,21007.542 h 2992 v 2001 h -2992 z"
    id="path7242" />
         
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 21173,17859 h 3111 v 2001 h -3111 z"
+   d="m 21966.75,21007.542 h 3111 v 2001 h -3111 z"
    id="path7252" />
         <text
    class="TextShape"
-   id="text7260"><tspan
+   id="text7260"
+   x="793.75"
+   y="3148.5417"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="400"
      id="tspan7258"><tspan
        class="TextPosition"
-       x="22197"
-       y="18556"
+       x="22990.75"
+       y="21704.541"
        id="tspan7256"><tspan
          fill="#158466"
          stroke="none"
@@ -1369,23 +1381,23 @@
         <path
    fill="#e6e6e6"
    stroke="none"
-   d="m 24284,17859 h 4230 v 2001 h -4230 z"
+   d="m 25077.75,21007.542 h 4230 v 2001 h -4230 z"
    id="path7262" /><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 18191.113,19864.291 h 2971.856 v 1990.871 h -2971.856 z"
+   d="m 18984.863,23012.833 h 2971.856 v 1990.871 h -2971.856 z"
    id="path7242-8"
    style="opacity:0.98;stroke-width:28.0556" /><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 21183.017,19862.383 h 3091.054 v 1992.732 h -3091.054 z"
+   d="m 21976.767,23010.925 h 3091.054 v 1992.732 h -3091.054 z"
    id="path7252-2"
    style="opacity:0.98;stroke-width:28.0732" /><text
    class="TextShape"
    id="text7260-4"
    style="font-size:9.58524px;opacity:0.98;stroke-width:22.5429"
-   x="2818.8887"
-   y="6480.2651"
+   x="3585.144"
+   y="9741.7822"
    transform="scale(1.0358817,0.96536119)"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
@@ -1394,8 +1406,8 @@
      id="tspan7258-4"
      style="stroke-width:22.5429"><tspan
        class="TextPosition"
-       x="20549.186"
-       y="21302.242"
+       x="21315.441"
+       y="24563.76"
        id="tspan7256-9"
        style="stroke-width:22.5429"><tspan
          fill="#158466"
@@ -1404,97 +1416,99 @@
          style="stroke-width:22.5429">Another-idea</tspan></tspan></tspan></text><path
    fill="#e6e6e6"
    stroke="none"
-   d="m 24288.645,19854.19 h 4213.463 v 2001 h -4213.463 z"
+   d="m 25082.395,23002.732 h 4213.463 v 2001 h -4213.463 z"
    id="path7262-4"
-   style="opacity:0.98;stroke-width:28.1668" /><text
-   class="TextShape"
-   id="text7270-9"
-   style="opacity:0.98"
-   x="-33.060444"
-   y="1912.2882"><tspan
-     class="TextParagraph"
-     font-family="'Times New Roman', serif"
-     font-size="635px"
-     font-weight="400"
-     id="tspan7268-3"><tspan
-       class="TextPosition"
-       x="25288.939"
-       y="20468.289"
-       id="tspan7266-6"><tspan
-         fill="#158466"
-         stroke="none"
-         id="tspan7264-8">5a95c45</tspan></tspan></tspan></text>
+   style="opacity:0.98;stroke-width:28.1668" />
         <text
    class="TextShape"
-   id="text7270"><tspan
+   id="text7270"
+   x="793.75"
+   y="3148.5417"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="400"
      id="tspan7268"><tspan
        class="TextPosition"
-       x="25322"
-       y="18556"
+       x="26115.75"
+       y="21704.541"
        id="tspan7266"><tspan
          fill="#158466"
          stroke="none"
-         id="tspan7264">5a95c45</tspan></tspan></tspan></text>
+         id="tspan7264">5a95c45</tspan></tspan></tspan></text><text
+   class="TextShape"
+   id="text7270-3"
+   x="724.76276"
+   y="5130.4146"
+   style="opacity:0.98"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="635px"
+     font-weight="400"
+     id="tspan7268-7"><tspan
+       class="TextPosition"
+       x="26046.764"
+       y="23686.414"
+       id="tspan7266-3"><tspan
+         fill="#158466"
+         stroke="none"
+         id="tspan7264-2">5a95c45</tspan></tspan></tspan></text>
         <path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,13861 H 28524"
+   d="m 18964.75,17009.542 h 10353"
    id="path7272" />
         <path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="m 18181,13851 v 6019"
+   d="m 18974.75,16999.542 v 6019"
    id="path7274" />
         <path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="m 21173,13851 v 6019"
+   d="m 21966.75,16999.542 v 6019"
    id="path7276" />
         <path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="m 24284,13851 v 6019"
+   d="m 25077.75,16999.542 v 6019"
    id="path7278" />
         <path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="m 28514,13851 v 6019"
+   d="m 29307.75,16999.542 v 6019"
    id="path7280" />
         <path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,15860 H 28524"
+   d="m 18964.75,19008.542 h 10353"
    id="path7282" />
         <text
    class="TextShape"
    id="text7250"
-   y="1957.9161"
+   y="5106.4575"
    style="opacity:0.98"
-   transform="translate(6.7009991e-7,-1.0943235e-4)"><tspan
+   x="793.75"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="700"
      id="tspan7248"><tspan
        class="TextPosition"
-       x="19518"
-       y="20513.893"
+       x="20311.75"
+       y="23662.434"
        id="tspan7246"><tspan
          fill="#158466"
          stroke="none"
@@ -1503,14 +1517,14 @@
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,17859 H 28524"
+   d="m 18964.75,21007.542 h 10353"
    id="path7284" />
         <path
    fill="none"
    stroke="#ffffff"
    stroke-width="20"
    stroke-linejoin="round"
-   d="M 18171,19860 H 28524"
+   d="m 18964.75,23008.542 h 10353"
    id="path7286" />
        </g>
 </svg>
