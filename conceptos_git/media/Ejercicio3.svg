@@ -37,12 +37,12 @@
    id="namedview7302"
    showgrid="false"
    inkscape:zoom="1.3783532"
-   inkscape:cx="596.00109"
-   inkscape:cy="404.46818"
+   inkscape:cx="577.13799"
+   inkscape:cy="404.46817"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg7300"
+   inkscape:current-layer="g7288"
    inkscape:showpageshadow="2"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
@@ -1015,8 +1015,9 @@
    stroke="none"
    d="m 12511,12633 230,-688 h -459 z"
    id="path7183-8" />
-       </g><g
-   transform="translate(0,-4299.8172)"
+       </g>
+<g
+   transform="translate(-1819.752,-5119.7512)"
    style="opacity:0.98"
    id="g7288">
         <rect
@@ -1133,26 +1134,70 @@
          fill="#158466"
          stroke="none"
          id="tspan7234">d10dd64</tspan></tspan></tspan></text>
-        
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 18181,17859 h 2992 v 2001 h -2992 z"
+   id="path7242" />
         <text
    class="TextShape"
    id="text7250"
-   y="-1799.1663"><tspan
+   x="115.17368"
+   y="-1804.3876"><tspan
      class="TextParagraph"
      font-family="'Times New Roman', serif"
      font-size="635px"
      font-weight="700"
      id="tspan7248"><tspan
        class="TextPosition"
-       x="19518"
-       y="16756.855"
+       x="19633.174"
+       y="16751.613"
        id="tspan7246"><tspan
          fill="#158466"
          stroke="none"
          id="tspan7244">*</tspan></tspan></tspan></text>
-        
-        
-        
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 21173,17859 h 3111 v 2001 h -3111 z"
+   id="path7252" />
+        <text
+   class="TextShape"
+   id="text7260"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="635px"
+     font-weight="400"
+     id="tspan7258"><tspan
+       class="TextPosition"
+       x="22197"
+       y="18556"
+       id="tspan7256"><tspan
+         fill="#158466"
+         stroke="none"
+         id="tspan7254">idea</tspan></tspan></tspan></text>
+        <path
+   fill="#e6e6e6"
+   stroke="none"
+   d="m 24284,17859 h 4230 v 2001 h -4230 z"
+   id="path7262" /><text
+   class="TextShape"
+   id="text7240-2"
+   style="opacity:0.98"
+   x="-100.16827"
+   y="2074.0696"><tspan
+     class="TextParagraph"
+     font-family="'Times New Roman', serif"
+     font-size="635px"
+     font-weight="400"
+     id="tspan7238-8"><tspan
+       class="TextPosition"
+       x="25187.832"
+       y="18631.07"
+       id="tspan7236-4"><tspan
+         fill="#158466"
+         stroke="none"
+         id="tspan7234-1">d10dd64</tspan></tspan></tspan></text>
         
         <path
    fill="none"
@@ -1203,6 +1248,11 @@
    stroke-linejoin="round"
    d="M 18171,17859 H 28524"
    id="path7284" />
-        
-       </g>
-</svg>
+        <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="20"
+   stroke-linejoin="round"
+   d="M 18171,19860 H 28524"
+   id="path7286" />
+       </g></svg>

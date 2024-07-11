@@ -1,0 +1,312 @@
+[33mcommit 1fa06c5bb0e2cfbc939e5036b25ea5804732a918[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mEjercicios[m[33m, [m[1;31morigin/Ejercicios[m[33m)[m
+Author: Daniel Martínez <daniel.martinez@AD.RBAVIERA.COM>
+Date:   Wed Jul 10 16:26:25 2024 +0200
+
+    Actualizado Ejercicio1
+
+[33mcommit b111c54e2b0106836ac6da3831e5f2913394fac4[m
+Author: Daniel Martínez <daniel.martinez@AD.RBAVIERA.COM>
+Date:   Wed Jul 10 14:48:44 2024 +0200
+
+    Actualizado README
+
+[33mcommit 093bf88b32652158bcb4cef212fad526986ed9f6[m
+Author: Daniel Martínez <daniel.martinez@AD.RBAVIERA.COM>
+Date:   Wed Jul 10 14:46:10 2024 +0200
+
+    Actualizo imagenes
+
+[33mcommit 1252058ff7f2973ad4c604bd303913f4f7422455[m
+Author: Daniel Martínez <daniel.martinez@AD.RBAVIERA.COM>
+Date:   Wed Jul 10 13:34:49 2024 +0200
+
+    Añadidos ejercicios
+
+[33mcommit 3d54e209ee25cafa6f48a10e0df0ede2d729f253[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Sat May 13 20:16:24 2023 +0200
+
+    add data_science_2 exercise (#39)
+    
+    * first version of data_science_2 exercise
+    
+    * add link to excellent Goldacre book
+    
+    * clarify data pooling, make links consistently point to english wiki
+    
+    ---------
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit a51029d47d371610c84b7c27b77237f1c889a7ef[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Sun Apr 2 08:19:17 2023 +0200
+
+    add data science exercise (#33)
+    
+    * add data science exercise
+    
+    * fix formatting
+    
+    ---------
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit e77dbefec20ec549430c599ab294f01f41294db3[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Wed Mar 15 20:55:03 2023 +0100
+
+    fix sql string quotes (#32)
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 29163000d5decb17bab0c10bbba2775939944cda[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Thu Mar 9 07:57:37 2023 +0100
+
+    talk about convergence & convergence diagnostics (#31)
+    
+    * talk about convergence & convergence diagnostics
+    
+    * add alternative solution method so people can double-check their work
+    
+    ---------
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit fc9ee998202e9de2be733804b250af5824a9e2e6[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Fri Feb 24 11:40:45 2023 +0100
+
+    add docker instructions (#30)
+    
+    * add docker instructions
+    
+    * formatting
+    
+    * add comment about arm linux
+    
+    ---------
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit e5035745e3df469b00d151ebcc120e1f664e3d03[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Mon Feb 13 09:57:47 2023 +0100
+
+    fix broken link in README (#28)
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit db533b7183df0b479453550e070eeade13075adf[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Mon Feb 13 09:01:39 2023 +0100
+
+    start on supervised learning exercise (#27)
+    
+    * start on supervised learning exercise
+    
+    * add numpy-style docstrings to important functions & question specs, cleanup, add small visualization warmup exercise
+    
+    * apply @valentinboyanov feedback
+    
+    * @valentinboyanov review, change to matplotlib inline
+    
+    ---------
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 9edfe2683e4feb7bc78510023108c57f08bc431e[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Tue Dec 20 15:41:07 2022 +0100
+
+    update paths to avoid https://confluence.atlassian.com/bitbucketserverkb/error-invalid-path-during-git-clone-to-windows-client-1085186345.html (#26)
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 771368f6a6202e819b1457cd788d9dde67af87a6[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Fri Oct 21 14:18:15 2022 +0200
+
+    Python async intro 2 (#25)
+    
+    * start on python async exercise 2
+    
+    * better exercises
+    
+    * update index
+    
+    * better docs
+    
+    * autoformat with black
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 3c1f4798f08e90592fbbe9c8f2c30d830a9927a9[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Tue Jan 18 18:35:34 2022 +0100
+
+    Transactions (#24)
+    
+    * initial version
+    
+    * better docs
+    
+    * update index
+    
+    * check that the provided solution passes unit tests
+    
+    * make location of code explicit
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 2128166490af0aa0be8083e8e1cad347387eed09[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Wed Sep 29 19:25:51 2021 +0200
+
+    Mapreduce (#23)
+    
+    * add simple inverted index mapreduce problem
+    
+    * add to main index
+    
+    * brainfart
+    
+    * less general example
+    
+    * changing exercise to be less general
+    
+    * add exercise data
+    
+    * remove old data
+    
+    * doc fixes
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 69d628ef4d38913d70faaaf74b9da67c12f1a1f7[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Tue Jun 29 18:06:41 2021 +0200
+
+    Data fusion (#22)
+    
+    * basics are up
+    
+    * better docs
+    
+    * strike
+    
+    * strike 2
+    
+    * bugfix
+    
+    * cleanup
+    
+    * better data set
+    
+    * refinements
+    
+    * doc fix
+    
+    * fix typo
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit d33ddc013ddb460eb719cc6080227cbfb5c75266[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Wed Jun 23 15:59:06 2021 +0200
+
+    Multiobjective optimization (#21)
+    
+    * add multiobjective optimization exercise
+    
+    * update main readme
+    
+    * add overview
+    
+    * fix typo
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 12cce4e6c86c8007c615988aeae0eb7878b70def[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Mon May 17 15:24:17 2021 +0200
+
+    add async/await intro exercise (#20)
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 25cbdfdcc3afb3b2564b339d631c8581c8454a28[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Wed Nov 25 20:34:58 2020 +0100
+
+    aplicar feedback (#19)
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 7b769503fdf86ab3a23bf6f3816579becd100017[m
+Author: Valentin Boyanov Rusev <valentin@onestic.com>
+Date:   Fri Nov 20 17:34:46 2020 +0100
+
+    Fix link format (#18)
+
+[33mcommit 15c608533dee7a851ec57fc8c2b9dce8c80a0f1b[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Tue Nov 10 19:23:01 2020 +0100
+
+    clarify points (#17)
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 7cd73948318e6342b14e17fab156801b9c7f4d9c[m
+Author: miguelsimon <s.carton@gmail.com>
+Date:   Mon Nov 9 23:22:50 2020 +0100
+
+    ejercicio de datos univariados 3 (#16)
+    
+    * add first vsn of exercise
+    
+    * add to main readme
+    
+    * formatting
+    
+    * add fixed point iteration hint
+    
+    * fix style, better hints
+    
+    Co-authored-by: Miguel Simon Kreuz <miguel@listenic.com>
+
+[33mcommit 70059a133df1714b9b37a36ac4c9f957e70a9035[m
+Author: Jon Ander <46103122+jonanderp1@users.noreply.github.com>
+Date:   Fri Oct 23 13:40:07 2020 +0200
+
+    New index (#15)
+    
+    * create new index page
+    
+    * new index
+    
+    * fix broken link
+    
+    * fix link and recover gatos content
+
+[33mcommit fe3e8dc223422d8b7dbb897cdafbfe45b8036e41[m
+Author: Valentin Boyanov Rusev <valentin@onestic.com>
+Date:   Fri Oct 23 12:49:52 2020 +0200
+
+    The index page is actually a page of cats (#13)
+
+[33mcommit 8fbf49ff41aad3405dd92bef8d159a87f1bf6874[m
+Author: marraez <44769493+arraezmarta@users.noreply.github.com>
+Date:   Fri Oct 23 12:08:26 2020 +0200
+
+    unify size of images (#12)
+
+[33mcommit b8575299f4b1cbe119518c21fb8f65fe70084668[m
+Author: Jon Ander <46103122+jonanderp1@users.noreply.github.com>
+Date:   Fri Oct 23 11:50:35 2020 +0200
+
+    logo with link (#11)
+
+[33mcommit 9cd2382a1c3f028ff38ae17ce3c0185bb6c92af5[m
+Author: marraez <4476
